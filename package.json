@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": false,
   "scripts": {
-    "lint:html": "html-validate index.html"
+    "lint:html": "html-validate index.html",
+    "create-issues": "node scripts/create_issues.js",
+    "run-create-issues": "node scripts/run_create_issues.js"
   },
   "devDependencies": {
     "html-validate": "^7.0.0"
