@@ -29,10 +29,13 @@ A modern, professional AI/ML portfolio website showcasing machine learning proje
 
 ```
 portfolio/
-├── index.html           (AI/ML Portfolio)
-├── style.css           (Responsive Design)
-├── script.js           (Interactivity)
-└── README.md           (This file)
+├── index.html           (AI/ML Portfolio - Home)
+├── about.html           (About page)
+├── projects.html        (Projects gallery)
+├── contact.html         (Contact / Social links)
+├── style.css            (Responsive Design)
+├── script.js            (Interactivity)
+└── README.md            (This file)
 ```
 
 ## 🚀 Quick Start
